@@ -2,11 +2,11 @@
     <h1 style="border-bottom: none !important; padding-bottom: 0 !important; color: #367cc2ff;">Hi my name is Alex :raised_hand_with_fingers_splayed: </h1> 
 </div>
 
+<div>
 <h2 style="
     font-size: 25px;
     font-weight: 600;
     color: #367cc2ff;
-    background: transparent !important
     border-bottom: none !important;
     padding-bottom: 0 !important;
     margin-bottom: 1 !important;
@@ -19,6 +19,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JAICP](https://img.shields.io/badge/JAICP-00A4E4?style=for-the-badge&logo=data:image/svg+xml;base64,ВАШ_BASE64_КОД)
+</div>
 
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 
