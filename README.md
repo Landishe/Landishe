@@ -2,7 +2,7 @@
     <h1 style="border-bottom: none !important; padding-bottom: 0 !important; color: #367cc2ff;">Hi my name is Alex :raised_hand_with_fingers_splayed: </h1> 
 </div>
 
-<span style="font-size: 25px; font-weight: 600; color: #367cc2ff;">Language and skills:</span>
+<h2 style="font-size: 25px; font-weight: 600; color: #367cc2ff;">Language and skills:</h2>
 
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -13,7 +13,7 @@
 
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 
-<h2 style="font-size: 24px; margin-bottom: 10px; color: #367cc2ff;">About me</h2>
+<h3 style="font-size: 24px; margin-bottom: 10px; color: #367cc2ff;">About me</h3>
 
 <p style="font-size: 20px; line-height: 1.6; margin-top: 0; color: #1a61a8ff">
     I'm frontend developer with 2+ years experience.
@@ -26,7 +26,7 @@
 </p>
 </div>
 
-<h3 style="color: #367cc2ff; font-size: 22px"> Contact </h3>
+<h4 style="color: #367cc2ff; font-size: 22px"> Contact </h4>
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alex_lando)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=telegram&logoColor=25D366)](https://wa.me/79995649530)
