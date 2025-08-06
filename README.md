@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h1>Привет, меня зовут Алексей</h1> 
+    <h1 style="border-bottom: none !important; padding-bottom: 0 !important;">Заголовок без линии</h1>Привет, меня зовут Алексей</h1> 
 </div>
 
 <h2 style="border-bottom: none !important; padding-bottom: 0 !important;">language and skils:</h2>
@@ -11,6 +11,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JAICP](https://img.shields.io/badge/JAICP-000000?style=for-the-badge&logo=data:image/assets/just-ai-vw;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptLTEgMTVoMnYyaC0ydi0yem0wLTEzaDJ2MTBoLTJWNnoiLz48L3N2Zz4=)
 
-<h2>about me</h2>
+<h3>about me</h2>
 
 follow me
