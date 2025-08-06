@@ -1,6 +1,6 @@
 <div align="center"> 
     <h1 style="border-bottom: none !important; padding-bottom: 0 !important; color: #367cc2ff;">Hi my name is Alex :raised_hand_with_fingers_splayed: </h1> 
-</div>
+
 
 <div>
 <h2 style="
@@ -41,3 +41,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alex_lando)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=telegram&logoColor=25D366)](https://wa.me/79995649530)
+</div>
