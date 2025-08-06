@@ -1,16 +1,6 @@
 # Hi my name is Alex :raised_hand_with_fingers_splayed:
 
-## 
-<span style="
-    font-size: 25px;
-    font-weight: 600;
-    color: #367cc2ff;
-    border-bottom: none !important;
-    padding-bottom: 0 !important;
-    margin-bottom: 1 !important;
-    box-shadow: none !important;
-    -webkit-box-shadow: none !important;">Language and skills:
-</span>
+### Language and skills:
 
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
