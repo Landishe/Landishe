@@ -13,9 +13,9 @@
 
 ### Аbout me
 I`am junior+ frontend. 
-i have procesed > 2 years
-I always learnin new things:muscle:
-And lately I've been studying Jaicp framework to javaScript:books:
+i have procesed > 2 years 
+I always learnin new things :muscle:
+And lately I've been studying Jaicp framework to javaScript :books:
 
 ### Contact me
 ![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
