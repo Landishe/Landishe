@@ -15,7 +15,7 @@
 
 <h2 style="font-size: 24px; margin-bottom: 10px; color: #367cc2ff;">About me</h2>
 
-<p style="font-size: 18px; line-height: 1.6; margin-top: 0; color: #1a61a8ff">
+<p style="font-size: 20px; line-height: 1.6; margin-top: 0; color: #1a61a8ff">
     I'm frontend developer with 2+ years experience.
     <br>
     Constantly learning new technologies 💻
