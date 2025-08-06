@@ -2,7 +2,7 @@
     <h1 style="border-bottom: none !important; padding-bottom: 0 !important">Привет, меня зовут Алексей</h1> 
 </div>
 
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important;">language and skils:</h2>
+<span style="font-size: 32px; font-weight: 600;">language and skils:</span>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
