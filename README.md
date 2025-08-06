@@ -1,4 +1,6 @@
-![Header] Alexey Zikov
+<div align="center"> Hi, my name Alexey Zikov </div>
+
+ 
 
 about me
 
