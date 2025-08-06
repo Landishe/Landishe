@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h1 style="border-bottom: none !important; padding-bottom: 0 !important;">Заголовок без линии</h1>Привет, меня зовут Алексей</h1> 
+    <h1 style="border-bottom: none !important; padding-bottom: 0 !important">Привет, меня зовут Алексей</h1> 
 </div>
 
 <h2 style="border-bottom: none !important; padding-bottom: 0 !important;">language and skils:</h2>
