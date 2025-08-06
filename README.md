@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h1 style="border-bottom: none !important; padding-bottom: 0 !important">Hi my name is Alex</h1> 
+    <h1 style="border-bottom: none !important; padding-bottom: 0 !important">Hi my name is Alex :raised_hand_with_fingers_splayed: </h1> 
 </div>
 
 <span style="font-size: 25px; font-weight: 600;">Language and skills:</span>
@@ -12,7 +12,10 @@
 ![JAICP](https://img.shields.io/badge/JAICP-00A4E4?style=for-the-badge&logo=https://example.com/jaicp-icon.png)
 
 ### Аbout me
-I`am junior+ frontend. i have procesed > 2 years. I always learnin new things :books: . And lately I've been studying Jaicp framework to javaScript
+I`am junior+ frontend. 
+i have procesed > 2 years
+I always learnin new things:muscle:
+And lately I've been studying Jaicp framework to javaScript:books:
 
 ### Contact me
 ![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
