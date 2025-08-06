@@ -11,12 +11,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JAICP](https://img.shields.io/badge/JAICP-00A4E4?style=for-the-badge&logo=https://example.com/jaicp-icon.png)
 
-### Аbout me
-I`am junior+ frontend. 
-i have procesed > 2 years 
-I always learnin new things :muscle:
-And lately I've been studying Jaicp framework to javaScript :books:
+<h2 style="font-size: 24px; margin-bottom: 10px;">About me</h2> <p style="font-size: 18px; line-height: 1.6;"> I'm frontend developer.<br> I have processed > 2 years experience.<br> I'm always learning new things 💪<br> And lately I've been studying Jaicp framework for JavaScript 📚 </p>
 
 ### Contact me
-![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=telegram&logoColor=25D366)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alex_lando)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=telegram&logoColor=25D366)](https://wa.me/79995649530)
