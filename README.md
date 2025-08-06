@@ -1,16 +1,19 @@
 <div align="center"> 
-    <h1 style="border-bottom: none !important; padding-bottom: 0 !important">Привет, меня зовут Алексей</h1> 
+    <h1 style="border-bottom: none !important; padding-bottom: 0 !important">Hi my name is Alex</h1> 
 </div>
 
-<span style="font-size: 32px; font-weight: 600;">language and skils:</span>
+<span style="font-size: 25px; font-weight: 600;">Language and skills:</span>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JAICP](https://img.shields.io/badge/JAICP-000000?style=for-the-badge&logo=data:image/assets/just-ai-vw;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptLTEgMTVoMnYyaC0ydi0yem0wLTEzaDJ2MTBoLTJWNnoiLz48L3N2Zz4=)
+![JAICP](https://img.shields.io/badge/JAICP-00A4E4?style=for-the-badge&logo=https://example.com/jaicp-icon.png)
 
-<h3>about me</h2>
+### Аbout me
+I`am junior+ frontend. i have procesed > 2 years. I always learnin new things :books: . And lately I've been studying Jaicp framework to javaScript
 
-follow me
+### Contact me
+![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=telegram&logoColor=25D366)
